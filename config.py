@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("25586552"))
+API_HASH = getenv("f265cba9d76dc6ad70914accbe758f47")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7145586157:AAHk1AXutLtTP2tX7_RVJ6yIEMCsb5RYDW4")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iam_daxx")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Maisamyahu")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "serenaxxmusicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nexiko")
+BOT_NAME = getenv("BOT_NAME" , "Serena")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Ashxassistbot")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002137333016))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6664582540))
+OWNER_ID = int(getenv("OWNER_ID", 1368753935))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DAXXTEAM/DAXXMUSIC",
+    "https://github.com/aditya94139/DAXXMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ALLTYPECC")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DAXXSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Medicoarmy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/thembotsupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
